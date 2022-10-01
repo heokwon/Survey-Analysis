@@ -13,4 +13,4 @@
 <br><br>
 ## Env and Requirements
 * Google Colab
-* Pandas, gensim, matplotlib, seaborn, wordcloud
+* Pandas, Gensim, KoNLPy, Re, Matplotlib, Seaborn, Wordcloud
