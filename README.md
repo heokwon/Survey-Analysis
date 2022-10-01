@@ -8,3 +8,7 @@
 * TF-IDF를 사용하여 단어별 사용빈도 추출
 * N-gram, topic modeling
 * WordCloud 및 LDA
+
+## Env and Requirements
+* Google Colab
+* Pandas, gensim, matplotlib, seaborn, wordcloud
