@@ -7,9 +7,8 @@
 <br><br>
 ### TextMining with ML
 * 데이터를 토큰화
-* TF-IDF를 사용하여 단어별 사용빈도 추출
-* N-gram, topic modeling
-* WordCloud 및 LDA
+* TF-IDF, WordCloud
+* N-gram, Topic modeling, LDA(Latent Dirichlet Allocation)
 <br><br>
 ## Env and Requirements
 * Google Colab
