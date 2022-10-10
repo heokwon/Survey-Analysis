@@ -10,6 +10,9 @@
 * TF-IDF, WordCloud
 * N-gram, Topic modeling, LDA(Latent Dirichlet Allocation)
 <br><br>
+#### 비슷한 양식의 설문조사 파일들이면 동일 코드로 시각화와 토픽모델링이 가능하게끔 함수화
+#### 구내식당 설문조사와 달력 설문조사로 진행
+<br><br>
 ## Env and Requirements
 * Google Colab
 * Pandas, Gensim, KoNLPy, Re, Matplotlib, Seaborn, Wordcloud
