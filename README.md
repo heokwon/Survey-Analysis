@@ -1,4 +1,4 @@
-# Survey-analysis
+# Survey-Analysis
 ### Visualizing
 * 설문조사.xlsx 파일을 불러와 유의미한 데이터를 추출하여 시각화
 * 데이터프레임에서 원하는 값을 입력했을 때 원하는 플롯을 뽑아낼 수 있도록   
