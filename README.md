@@ -14,5 +14,5 @@
 #### 구내식당 설문조사와 달력 설문조사로 진행
 <br><br>
 ## Env and Requirements
-* Google Colab
+* Google Colab, Jupyter Notebook, Conda
 * Pandas, Gensim, KoNLPy, Re, Matplotlib, Seaborn, Wordcloud
